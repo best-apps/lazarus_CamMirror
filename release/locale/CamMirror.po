@@ -1,0 +1,67 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: global.nabout
+msgid "About"
+msgstr ""
+
+#: global.napptitle
+msgid "Cam Mirror Ver 1.05 Powered by Lazarus."
+msgstr ""
+
+#: global.nexit
+msgid "Exit"
+msgstr ""
+
+#: global.nexitapplication
+msgid "Exit Application"
+msgstr ""
+
+#: global.nfullsceeen
+msgid "Full Screen"
+msgstr ""
+
+#: global.nhide
+msgid "Hide"
+msgstr ""
+
+#: global.nlanguageprompt
+msgid "you must restart this appliction to use new language."
+msgstr ""
+
+#: global.nlanguages
+msgid "Select Languages 选择语言 選擇語言"
+msgstr ""
+
+#: global.nlookforcam
+msgid "looking for camera ... "
+msgstr ""
+
+#: global.nnormal
+msgid "Normal"
+msgstr ""
+
+#: global.nresolution
+msgid "Resolution"
+msgstr ""
+
+#: global.nscreenshot
+msgid "Screen Shot"
+msgstr ""
+
+#: global.nshowmirror
+msgid "Show mirror"
+msgstr ""
+
+#: global.ntop
+msgid "Top"
+msgstr ""
+
+#: global.ntopmost
+msgid "Top Most"
+msgstr ""
+
+#: my_pub_functions.a____
+msgid "t"
+msgstr ""
+

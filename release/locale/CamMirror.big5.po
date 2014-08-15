@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: kevin jiang <aaa>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: global.nabout
+msgid "About"
+msgstr "關於"
+
+#: global.napptitle
+msgid "Cam Mirror Ver 1.05 Powered by Lazarus."
+msgstr "攝像頭照鏡子版本1.05 使用Lazarus開發。"
+
+#: global.nexit
+msgid "Exit"
+msgstr "退出"
+
+#: global.nexitapplication
+msgid "Exit Application"
+msgstr "退出程式"
+
+#: global.nfullsceeen
+msgid "Full Screen"
+msgstr "全熒幕"
+
+#: global.nhide
+msgid "Hide"
+msgstr "隱藏"
+
+#: global.nlanguageprompt
+msgid "you must restart this appliction to use new language."
+msgstr "重新啟動本程式後方可使用新語言。"
+
+#: global.nlanguages
+msgid "Select Languages 选择语言 選擇語言"
+msgstr ""
+
+#: global.nlookforcam
+msgid "looking for camera ... "
+msgstr "正在發現攝像頭設備..."
+
+#: global.nnormal
+msgid "Normal"
+msgstr "正常"
+
+#: global.nresolution
+msgid "Resolution"
+msgstr "分辨率"
+
+#: global.nscreenshot
+msgid "Screen Shot"
+msgstr "截屏存盤"
+
+#: global.nshowmirror
+msgid "Show mirror"
+msgstr "顯示鏡子"
+
+#: global.ntop
+msgid "Top"
+msgstr "置頂"
+
+#: global.ntopmost
+msgid "Top Most"
+msgstr "設置窗體置頂"
+
+#: my_pub_functions.a____
+msgid "t"
+msgstr ""
+
